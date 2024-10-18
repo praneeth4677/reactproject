@@ -12,6 +12,7 @@ function App() {
        welcome to react
       </p>
       <h>avengers</h>
+      <h>hello world</h>
     </>
   )
 }
